@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Blog Tecnológico</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Mi Blog Tecnológico</h1>
+    <p>Explorando programación, ciberseguridad y robótica</p>
+</header>
+
+<nav>
+    <a href="index.html">Inicio</a>
+    <a href="post1.html">Programación</a>
+    <a href="post2.html">Ciberseguridad</a>
+    <a href="post3.html">Robótica</a>
+</nav>
+
+<main>
+    <h2>Bienvenido</h2>
+    <p>En este blog comparto mi experiencia aprendiendo sobre tecnología y desarrollo.</p>
+
+    <section>
+        <h3>Últimas entradas</h3>
+        <ul>
+            <li><a href="post1.html">Mi experiencia aprendiendo programación</a></li>
+            <li><a href="post2.html">Introducción a la ciberseguridad</a></li>
+            <li><a href="post3.html">El futuro de la robótica</a></li>
+        </ul>
+    </section>
+</main>
+
+<footer>
+    <p>© 2026 Mi Blog Tecnológico</p>
+</footer>
+
+</body>
+</html>

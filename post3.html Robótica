@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robótica</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Mi Blog Personal</h1>
+</header>
+
+<nav>
+    <a href="index.html">Inicio</a>
+    <a href="post1.html">Programación</a>
+    <a href="post2.html">Ciberseguridad</a>
+    <a href="post3.html">Robótica</a>
+</nav>
+
+<main>
+    <article>
+        <h2>Introducción a la Robótica</h2>
+        <p><strong>Publicado el:</strong> 22 de febrero de 2026</p>
+
+        <img src="https://images.unsplash.com/photo-1581091012184-5c6c8d5e1f67"
+             alt="Robot moderno"
+             width="100%">
+
+        <section>
+            <h3>¿Qué es la robótica?</h3>
+            <p>
+                La robótica es una rama de la ingeniería y la tecnología que se encarga
+                del diseño, construcción y programación de robots. Combina disciplinas
+                como la programación, la electrónica y la mecánica.
+            </p>
+        </section>
+
+        <section>
+            <h3>Aplicaciones actuales</h3>
+            <p>
+                Actualmente, la robótica se aplica en la industria, la medicina,
+                la exploración espacial y la educación. Los robots pueden realizar
+                tareas repetitivas, peligrosas o de alta precisión.
+            </p>
+        </section>
+
+        <section>
+            <h3>Relación con la programación</h3>
+            <p>
+                La programación es fundamental en la robótica, ya que permite que los
+                robots ejecuten instrucciones y respondan a su entorno mediante sensores
+                y algoritmos.
+            </p>
+        </section>
+
+        <section>
+            <h3>Conclusión</h3>
+            <p>
+                La robótica representa el futuro de la automatización y la innovación.
+                Su desarrollo continuo está transformando múltiples sectores y abre
+                nuevas oportunidades en el campo tecnológico.
+            </p>
+        </section>
+    </article>
+</main>
+
+<footer>
+    <p>© 2026 - Mi Blog</p>
+</footer>
+
+</body>
+</html>
